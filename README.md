@@ -1,2 +1,4 @@
-# python-basic-exercises
-Beginner‑friendly Python exercises  focused on interview prep and problem‑solving skills.
+# Python QA Problem Solving 🧪
+
+A **Beginner‑friendly Python exercises** designed to sharpen _problem‑solving skills_ for **interviews** and day‑to‑day testing work.
+
